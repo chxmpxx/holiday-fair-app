@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "The Cookie Jar",
+    "zone": "Food",
+    "rating": 3,
+    "latitude": 13.8476082,
+    "longitude": 100.5694849,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 2,
+    "name": "Fashionista",
+    "zone": "Fashion",
+    "rating": 4,
+    "latitude": 13.8472451,
+    "longitude": 100.5703086,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 3,
+    "name": "Pet Palace",
+    "zone": "Pet",
+    "rating": 5,
+    "latitude": 13.8467947,
+    "longitude": 100.5688562,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 4,
+    "name": "Fun Park Express",
+    "zone": "Fun Park",
+    "rating": 2,
+    "latitude": 13.8479849,
+    "longitude": 100.5697923,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 5,
+    "name": "Handmade Heaven",
+    "zone": "Handmade",
+    "rating": 1,
+    "latitude": 13.8485468,
+    "longitude": 100.5691607,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 6,
+    "name": "Green Thumb",
+    "zone": "Plant",
+    "rating": 4,
+    "latitude": 13.8478039,
+    "longitude": 100.5703472,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 7,
+    "name": "The Meatball Factory",
+    "zone": "Food",
+    "rating": 3,
+    "latitude": 13.8470122,
+    "longitude": 100.5697566,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 8,
+    "name": "Sneaker Freak",
+    "zone": "Fashion",
+    "rating": 5,
+    "latitude": 13.8472877,
+    "longitude": 100.5701212,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 9,
+    "name": "The Cat",
+    "zone": "Pet",
+    "rating": 4,
+    "latitude": 13.8469023,
+    "longitude": 100.5687006,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 10,
+    "name": "Thrill Zone",
+    "zone": "Fun Park",
+    "rating": 2,
+    "latitude": 13.8477512,
+    "longitude": 100.5687249,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 11,
+    "name": "Handmade by Emma",
+    "zone": "Handmade",
+    "rating": 3,
+    "latitude": 13.8487461,
+    "longitude": 100.5692327,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 12,
+    "name": "The Greenhouse",
+    "zone": "Plant",
+    "rating": 5,
+    "latitude": 13.8479505,
+    "longitude": 100.5702124,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 13,
+    "name": "Burgers and Fries",
+    "zone": "Food",
+    "rating": 4,
+    "latitude": 13.8482081,
+    "longitude": 100.568675,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 14,
+    "name": "Trendy Threads",
+    "zone": "Fashion",
+    "rating": 3,
+    "latitude": 13.8470143,
+    "longitude": 100.5702287,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 15,
+    "name": "Pet Paradise",
+    "zone": "Pet",
+    "rating": 2,
+    "latitude": 13.8469551,
+    "longitude": 100.5689341,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 16,
+    "name": "Sushi Central",
+    "zone": "Food",
+    "rating": 5,
+    "latitude": 13.8469659,
+    "longitude": 100.5700053,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 17,
+    "name": "Pizza Planet",
+    "zone": "Food",
+    "rating": 2,
+    "latitude": 13.8473546,
+    "longitude": 100.5697491,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 18,
+    "name": "Cupcake Heaven",
+    "zone": "Food",
+    "rating": 4,
+    "latitude": 13.8480861,
+    "longitude": 100.5697714,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 19,
+    "name": "Boho Chic",
+    "zone": "Fashion",
+    "rating": 2,
+    "latitude": 13.8471047,
+    "longitude": 100.5704255,
+    "image": "assets/images/shop_image.png"
+  },
+  {
+    "id": 20,
+    "name": "Vintage Vibes",
+    "zone": "Fashion",
+    "rating": 4,
+    "latitude": 13.8469336,
+    "longitude": 100.5699284,
+    "image": "assets/images/shop_image.png"
+  }
+]
