@@ -16,6 +16,7 @@ class ShopScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var mapProvider = Provider.of<MapController>(context, listen: false);
+    var zone = ModalRoute.of(context)?.settings.arguments;
 
     return Scaffold(
       backgroundColor: kColorsWhite,
@@ -34,7 +35,7 @@ class ShopScreen extends StatelessWidget {
         ),
       ),
       body: FutureBuilder(
-        future: ShopController().getAllShops(context),
+        future: ShopController().getAllShops(context, zone),
         builder: (BuildContext context, AsyncSnapshot<List<ShopModel>> snapshot) {
           if(snapshot.hasError) {
             return Center(

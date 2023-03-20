@@ -12,7 +12,6 @@ import 'package:holiday_fair/features/map/widgets/panel_widget.dart';
 import 'package:holiday_fair/features/shop/controllers/shop_controller.dart';
 import 'package:holiday_fair/features/shop/models/shop_model.dart';
 import 'package:holiday_fair/utils/get_current_location.dart';
-import 'package:location/location.dart';
 import 'package:provider/provider.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';
 

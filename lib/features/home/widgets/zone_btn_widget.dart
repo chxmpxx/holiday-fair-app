@@ -6,7 +6,9 @@ Widget zoneBtnWidget(context, text, img) {
   return InkWell(
     highlightColor: Colors.transparent,
     splashColor: Colors.transparent,
-    onTap: (){},
+    onTap: (){
+      Navigator.pushNamed(context, '/shop', arguments: text);
+    },
     child: Column(
       children: [
         Container(
